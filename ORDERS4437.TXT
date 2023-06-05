@@ -1,0 +1,13 @@
+Customer No: 1
+Customer Name: Jim
+Customer Email: dimigiou99@gmail.com
+Order No: 1
+Order Date: 05/06/2023
+
+Kwdikos					Perigrafi				Posotita			 Timi			Axia
+==========		=============		============		=======		======
+  101            Apples             2          0.89      1.78
+  105            Grapes             3          0.25      0.75
+  103            Banana            10          1.35      13.5
+                                             Shipping Cost: 20
+                                      Total amount of buys: 36.03
