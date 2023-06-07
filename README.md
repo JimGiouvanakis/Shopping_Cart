@@ -2,9 +2,10 @@
 This is a project in c++ , that was created for the needs of my university.
 
 Is a shopping cart , every time you run the program :
-"
+```
 myprogram.exe
-"
+```
+
 You have first to put 
 • Customer Number
 • Customer Name
